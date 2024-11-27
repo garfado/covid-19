@@ -9,6 +9,6 @@ RUN apt-get update && apt-get install -y wget && rm -rf /var/lib/apt/lists/*
 USER airflow
 RUN pip install pyspark==3.1.1
 
-# Comando padrão para iniciar o Airflow como uma instância completa
+# Comandinho para iniciar o Airflow 
 CMD ["airflow", "standalone"]
 
