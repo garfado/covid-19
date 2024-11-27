@@ -25,3 +25,9 @@ Foi entregue um pipeline de dados completo, confiável e com padrões de produç
 Ambiente pronto para evolução, suportando novas fontes de dados ou outros relatórios.
 Este processo pode ser uma base sólida para qualquer projeto de dados ou similar.
 Conclusão: Criamos um ambiente robusto e escalável que pode servir de exemplo para projetos futuros
+
+![image](https://github.com/user-attachments/assets/86963c26-31e6-4dab-9ba2-377bef5e012a)
+
+
+
+
